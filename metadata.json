@@ -1,0 +1,6 @@
+{
+  "name": "Fella's Market",
+  "description": "Botillería y minimarket en Alerce, Puerto Montt. Catálogo de productos, pedidos por WhatsApp, delivery a domicilio, retiro en local y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
